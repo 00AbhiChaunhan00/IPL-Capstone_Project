@@ -182,20 +182,25 @@ This project helped me strengthen my understanding of:
 
 ---
 
+
 # 👨‍💻 Author
 
 ## **Abhishek Singh Chauhan**
 
-### Aspiring Data Analyst
+### 🌟 Aspiring Data Analyst
 
-💻 SQL | Excel | Python | Power BI | Tableau
+**Skills**
+
+`SQL` • `Excel` • `Python` • `Pandas` • `Data Analysis` • `Dashboard Development` • `Business Intelligence`
 
 ---
 
 <div align="center">
 
-## ⭐ If you found this project useful, please consider giving it a Star ⭐
+### ⭐ If you found this project helpful, don't forget to Star ⭐ the repository!
 
-**Thank you for visiting!**
+**Thanks for visiting! 😊**
+
+</div>
 
 </div>
