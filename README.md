@@ -114,53 +114,6 @@ This project contains multiple visualizations to better understand IPL trends.
 
 ---
 
-# 📁 Project Structure
-
-```text
-IPL-Capstone-Project/
-│
-├── IPL_Capstone_Project.ipynb
-├── IPL.csv
-├── README.md
-└── images/
-```
-
----
-
-# 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/IPL-Capstone-Project.git
-```
-
-### Navigate to Project
-
-```bash
-cd IPL-Capstone-Project
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Run
-
-```
-IPL_Capstone_Project.ipynb
-```
-
----
-
 # 🔍 Key Insights
 
 Some interesting insights discovered from the analysis:
