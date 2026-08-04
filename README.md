@@ -84,8 +84,8 @@ The project answers several real-world analytical questions:
 -  Does winning the toss provide an advantage?
 -  Which stadium hosted the most matches?
 -  Which player won the most Player of the Match awards?
-- 📈 Which team achieved the highest victory margin?
-- 🤝 Which teams dominated by wickets?
+-  Which team achieved the highest victory margin?
+-  Which teams dominated by wickets?
 - 📅 Stage-wise match distribution
 - 📊 Overall team performance comparison
 
