@@ -80,8 +80,8 @@ The dataset contains match-level information such as:
 
 The project answers several real-world analytical questions:
 
-- 🏆 Which team won the most matches?
-- 🪙 Does winning the toss provide an advantage?
+-  Which team won the most matches?
+-  Does winning the toss provide an advantage?
 - 🏟 Which stadium hosted the most matches?
 - ⭐ Which player won the most Player of the Match awards?
 - 📈 Which team achieved the highest victory margin?
