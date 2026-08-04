@@ -73,7 +73,7 @@ The dataset contains match-level information such as:
 | 🔢 NumPy | Numerical Operations |
 | 📊 Matplotlib | Data Visualization |
 | 🎨 Seaborn | Statistical Visualization |
-| 
+| 📓 Jupyter Notebook | Development Environment |
 
 ---
 
