@@ -17,7 +17,7 @@
 
 # 📌 Project Overview
 
-This project performs an **Exploratory Data Analysis (EDA)** on the **Indian Premier League (IPL) 2022** dataset to uncover meaningful insights into team performances, player statistics, toss decisions, venue impact, and overall match trends.
+This project performs an **Exploratory Data Analysis (EDA)** on the **Indian Premier League (IPL)** dataset to uncover meaningful insights into team performances, player statistics, toss decisions, venue impact, and overall match trends.
 
 The primary objective is to demonstrate a complete data analysis workflow—from data cleaning to business insight generation—using Python.
 
