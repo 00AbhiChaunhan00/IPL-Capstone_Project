@@ -86,8 +86,8 @@ The project answers several real-world analytical questions:
 -  Which player won the most Player of the Match awards?
 -  Which team achieved the highest victory margin?
 -  Which teams dominated by wickets?
-- 📅 Stage-wise match distribution
-- 📊 Overall team performance comparison
+-  Stage-wise match distribution
+-  Overall team performance comparison
 
 ---
 
