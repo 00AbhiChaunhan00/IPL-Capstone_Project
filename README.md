@@ -177,7 +177,6 @@ This project helped me strengthen my understanding of:
 - 🏆 Match Winner Prediction
 - ⭐ Player Performance Prediction
 - 📉 Advanced Statistical Analysis
-- 🌐 Deploy Dashboard on Streamlit
 
 ---
 
